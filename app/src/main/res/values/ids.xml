@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="order_summary_text_view" type="id" />
+    <item name="whipped_cream_checkbox" type="id" />
+    <item name="chocolate_checkbox" type="id" />
+</resources>
